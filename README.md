@@ -1,5 +1,5 @@
 <h1 align="center">Hello World👋, I'm Shashank Dudhane</h1>
-<h3 align="center">A passionate frontend developer</h3>
+<h3 align="center">A passionate Web developer</h3>
 
 
 
