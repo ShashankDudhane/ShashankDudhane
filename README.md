@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a passionate Full-Stack Developer with a knack for building scalable web applications and exploring the depths of both frontend and backend ecosystems. Over the past few years, I’ve evolved from working with core Java,  and SQL to deploying containerized applications on AWS.<br><br>🛠️ Tech StackCategoryTools & Technologies<br>Frontend : ReactJS, Next.js, TailwindCSS, HTML5, CSS3, JavaScript<br>Backend : Node.js, ExpressJS, Java (Servlet, JSP, Spring Boot)<br>Databases : MongoDB, MySQL, SQL, Supabase<br>DevOps & Tools : AWS, Docker, Jenkins, Git, GitHub<br><br><br>Fun Fact : "I can debug code in my sleep, but I still can't find my keys in the morning."<br>
+I am a passionate Full-Stack Developer with a knack for building scalable web applications and exploring the depths of both frontend and backend ecosystems. Over the past few years, I’ve evolved from working with core Java, MERN and SQL to deploying containerized applications on AWS.<br><br>🛠️ Tech StackCategoryTools & Technologies<br>Frontend : ReactJS, Next.js, TailwindCSS, HTML5, CSS3, JavaScript<br>Backend : Node.js, ExpressJS, Java (Servlet, JSP, Spring Boot)<br>Databases : MongoDB, MySQL, SQL, Supabase<br>DevOps & Tools : AWS, Docker, Jenkins, Git, GitHub<br><br><br>Fun Fact : "I can debug code in my sleep, but I still can't find my keys in the morning."<br>
 
 
 ## 🌐 Socials:
